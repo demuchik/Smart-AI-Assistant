@@ -1,19 +1,15 @@
-🚀 Smart AI Assistant v1.0
-Устал читать "простыни" текста? Smart AI Assistant — это твой личный цифровой фильтр. Он выжимает из любого текста самую суть, оставляя только важные факты, и сразу переводит их на нужный язык.
+🚀Smart AI Assistant v1.0 Tired of reading the "sheets" of text? Smart AI Assistant is your personal digital filter. He squeezes the essence out of any text, leaving only the important facts, and immediately translates them into the desired language.
 
-Что он умеет?
-✂️ Hardcore Summarization: Забудь про лишнюю "воду". Алгоритм LexRank анализирует текст и выдает краткую выжимку.
+What can he do? ✂️Hardcore Summarization: Forget about the extra "water". The LexRank algorithm analyzes the text and provides a short summary.
 
-🌐 Global Translator: Мгновенный перевод (RU/EN) прямо в интерфейсе.
+🌐Global Translator: Instant translation (RU/EN) directly in the interface.
 
-🥷 Stealth Mode: Программа сворачивается в трей и работает в фоне, не мозоля глаза на панели задач.
+🥷 Stealth Mode: The program collapses into the tray and runs in the background, without blinding your eyes on the taskbar.
 
-💻 Dark Mode & UI: Стильный темный интерфейс, который не выжигает глаза ночью.
+💻 Dark Mode & UI: Stylish dark interface that doesn't burn out your eyes at night.
 
-Как начать пользоваться?
-Распакуйте архив Smart_AI_Assistant.rar.
+How do I start using it? Unpack the archive Smart_AI_Assistant.rar .
 
-Запустите .exe файл.
+Run it .the exe file.
 
-Если Windows ругается на "неизвестного издателя" — это нормально для авторского софта. Жми «Подробнее» -> «Выполнить в любом случае».
-Если вам понравился проект, поставьте ⭐ в верхнем углу страницы!
+If Windows swears at an "unknown publisher", this is normal for proprietary software. Click on "More details" -> "Run anyway". If you liked the project, put ⭐ in the upper corner of the page!
